@@ -61,16 +61,32 @@ I’m an aspiring Software Engineer and a final year Computer Science student wi
   <a href="https://codolio.com/profile/Rajsingh" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="Codolio" width="40" height="40"/>
   </a>
-</p>
-
+</p>  
 
 ---
 
-### Badges  
+---
 
+### 📛 Badges  
+
+<!-- Dynamic Stats -->
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=raj2201641540078&show_icons=true&theme=radical&count_private=true" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj2201641540078&layout=compact&theme=radical" />
+</p>  
+
+<p align="center">
+  <img width="45%" src="https://streak-stats.demolab.com/?user=raj2201641540078&theme=radical" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="45%" src="https://github-readme-activity-graph.vercel.app/graph?username=raj2201641540078&bg_color=0a0f1f&color=00e0c6&line=3b82f6&point=ffffff&area=true&hide_border=true" />
+</p>  
+
+<!-- Custom Uploaded Badges -->
 <p align="center">
   <img width="45%" src="https://github.com/user-attachments/assets/dc582f24-783f-4cda-9e99-dc276da0d942" alt="GitHub Stats Badge"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="45%" src="https://github.com/user-attachments/assets/fcb55e56-2871-4406-8f7e-aefa690dd4ba" alt="GitHub Activity Badge"/>
 </p>
+
 
